@@ -1,5 +1,4 @@
-# github.io-FiveCrowns
-<!DOCTYPE html>
+# Five Crowns
 <html lang="en">
 <head>
 <meta charset="UTF-8">
